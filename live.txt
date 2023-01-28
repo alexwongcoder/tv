@@ -35,6 +35,25 @@ CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 翡翠台,http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
+翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
+翡翠台,http://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台,http://2022.stream-link.org/playlist/tvb_jade
+翡翠台,http://23.237.10.66:16106
+翡翠台,http://y3y4.f3322.net:9901/hls/69/index.m3u8
+翡翠台,http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
+翡翠台,http://2023.stream-link.org/playlist/tvb_jade
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://23.237.10.66:16106
+翡翠台,http://23.237.10.66:16106
+翡翠台,http://113.117.74.17:808/hls/25/index.m3u8
+翡翠台,http://113.117.74.17:808/hls/67/index.m3u8
+翡翠台,http://2022.stream-link.org/playlist/tvb_jade
+翡翠台,http://113.117.74.15:808/hls/67/index.m3u8
+翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+翡翠台 (中英字幕),https://cdn.hkyoutv.com/raw/81b.ts
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&res_tag=video
+香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 纬来日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
@@ -290,15 +309,6 @@ CCTV-17HD,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 江苏卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225702/index.m3u8
 江苏卫视,http://yfsl.vsd.gehua.net.cn/live/JiangSuHD_1200.m3u8
 星空卫视台,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8 
-翡翠台,http://2022.stream-link.org/playlist/tvb_jade
-翡翠台,http://23.237.10.66:16106
-翡翠台,http://y3y4.f3322.net:9901/hls/69/index.m3u8
-翡翠台,http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
-翡翠台,http://2023.stream-link.org/playlist/tvb_jade
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://23.237.10.66:16106
-翡翠台,http://23.237.10.66:16106
 华丽台,http://2022.stream-link.org/playlist/astro_jade
 华丽台,http://pull-l3-cny.douyincdn.com/third/stream-8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 华丽台,http://2023.stream-link.org/playlist/astro_jade
@@ -2262,7 +2272,6 @@ CCTV16,http://113.117.74.17:808/hls/16/index.m3u8
 揭阳生活,http://113.117.74.17:808/hls/22/index.m3u8
 潮州综合,http://113.117.74.17:808/hls/23/index.m3u8
 汕头综合,http://113.117.74.17:808/hls/24/index.m3u8
-翡翠台,http://113.117.74.17:808/hls/25/index.m3u8
 广东公共,http://113.117.74.17:808/hls/27/index.m3u8
 广东新闻,http://113.117.74.17:808/hls/28/index.m3u8
 明珠台,http://113.117.74.17:808/hls/26/index.m3u8
@@ -2298,7 +2307,6 @@ DOXTV,http://113.117.74.17:808/hls/62/index.m3u8
 广西卫视,http://113.117.74.17:808/hls/60/index.m3u8
 深圳都市,http://113.117.74.17:808/hls/68/index.m3u8
 魅力足球,http://113.117.74.17:808/hls/65/index.m3u8
-翡翠台,http://113.117.74.17:808/hls/67/index.m3u8
 经济科教2,http://113.117.74.17:808/hls/66/index.m3u8
 深圳电视剧,http://113.117.74.17:808/hls/69/index.m3u8
 山东教育,http://113.117.74.17:808/hls/72/index.m3u8
@@ -4926,7 +4934,6 @@ BT SPORTS 2 HD,http://line.premiumpowers.net:80/Manuel/1234567/30566
 BT SPORTS 3 HD,http://line.premiumpowers.net:80/Manuel/1234567/30565
 BT SPORTS 4 HD,http://line.premiumpowers.net:80/Manuel/1234567/1019935
 BT SPORTS 5 HD,http://line.premiumpowers.net:80/Manuel/1234567/1004548
-翡翠台,http://2022.stream-link.org/playlist/tvb_jade
 華麗(翡翠)台,http://2022.stream-link.org/playlist/astro_jade
 八度空間,http://2022.stream-link.org/playlist/8tv
 無綫新聞台,http://2022.stream-link.org/playlist/tvb_news
@@ -5015,7 +5022,6 @@ CHY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.
 HITS,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 GinX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 华视新闻资讯,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
-翡翠台,http://113.117.74.15:808/hls/67/index.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
