@@ -1,5 +1,5 @@
 {
-    "spider":"clan://tv/spider.jar",
+    "spider":"https://github.com/alexwongcoder/tv/blob/main/spider.jar",
     "lives":[
         {
             "group":"redirect",
