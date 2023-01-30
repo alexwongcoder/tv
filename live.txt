@@ -1,5 +1,5 @@
 
-😊HBY,#genre#
+😊黄宝仪是个大傻子,#genre#
 西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
 影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
@@ -135,7 +135,7 @@ RTHK32,http://120.132.122.244:59845/hls/90/index.m3u8
 RTHK33,http://120.132.122.244:59845/hls/91/index.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-🎈祝大家,#genre#
+🎈黄宝仪是个大傻子,#genre#
 CCTV1,http://wabc.ml/sxg.php?id=CCTV-1H265_4000
 CCTV1,http://124.220.17.172:1100/aas.php?id=1
 CCTV1,http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_1200.m3u8
@@ -251,7 +251,7 @@ CCTV-14HD,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
 CCTV-15HD,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
 CCTV-16HD,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
 CCTV-17HD,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
-🎈新年快乐,#genre#
+🎈黄宝仪是个大傻子,#genre#
 安徽卫视,http://121.51.249.45/live1.ahtv.cn/ahws/hd/live.m3u8
 安徽卫视,http://wabc.ml/sxg.php?id=ahwsH265_4000
 安徽卫视,http://124.220.17.172:1100/aas.php?id=32
